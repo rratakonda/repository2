@@ -1,1 +1,1 @@
-<?php echo "Hello world, Hello github" ?>
+<?php echo "Hello world, Hello " ?>
