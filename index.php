@@ -1,6 +1,10 @@
+
 <?php echo "Hello world, Hello Git"
 echo "Testing From another user ";
-#Commit From Git Extensions12345code modified from browser
-
-# To resolve Conflicts 
+echo "testing gitextensions local commit"
+echo "Local commit";
+echo "Local commit";
+echo "testing gitextensions local commit"
+echo 'Commiting from Git Extensions';
  ?>
+
