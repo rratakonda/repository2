@@ -5,12 +5,6 @@ echo "testing gitextensions local commit"
 echo "Local commit";
 echo "Local commit";
 echo "testing gitextensions local commit"
-echo 'Commiting from Git Extensions';
-echo 'Commiting from Git Extensions';
-echo 'Commiting from Git Extensions';
-echo 'Commiting from Git Extensions';
-echo "Testing From another user ";
-echo "testing gitextensions local commit"
 echo "Local commit";
 echo "Local commit";
 echo "testing gitextensions local commit"
