@@ -5,5 +5,6 @@ echo "testing gitextensions local commit"
 echo "Local commit";
 echo "Local commit";
 echo "testing gitextensions local commit"
+echo 'Commiting from Git Extensions';
  ?>
 
