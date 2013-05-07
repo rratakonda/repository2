@@ -7,5 +7,7 @@ echo "Local commit";
 echo "testing gitextensions local commit"
 echo 'Commiting from Git Extensions';
 #Resolve Conflicts
+
+# For Stash
  ?>
 
