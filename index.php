@@ -5,7 +5,14 @@ echo "testing gitextensions local commit"
 echo "Local commit";
 echo "Local commit";
 echo "testing gitextensions local commit"
-echo 'Commiting from Git Extensions';
+echo "Local commit";
+echo "Local commit";
+echo "testing gitextensions local commit"
+echo "Testing From another user ";
+echo "testing gitextensions local commit"
+echo "Local commit";
+echo "Local commit";
+echo "testing gitextensions local commit"
 #Resolve Conflicts
 
 # For Stash
