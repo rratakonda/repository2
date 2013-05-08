@@ -1,4 +1,3 @@
-
 <?php echo "Hello world, Hello Git"
 echo "Testing From another user ";
 echo "testing gitextensions local commit"
@@ -19,5 +18,7 @@ echo 'Commiting from Git Extensions';
 #Resolve Conflicts
 
 #Stash1
+
+#Need to merge with master
  ?>
 
